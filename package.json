@@ -1,0 +1,28 @@
+{
+  "name": "matev13",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mate"
+  },
+  "keywords": [],
+  "author": "ewing",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "moment": "^2.29.1",
+    "officegen": "^0.6.5",
+    "quickmongo": "^3.0.2",
+    "randomstring": "^1.2.1",
+    "st.db": "^2.0.0"
+  }
+}
